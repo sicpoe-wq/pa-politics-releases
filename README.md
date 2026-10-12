@@ -4,13 +4,15 @@ Sideloadable **debug** APKs for testing **PA Politics**, a Pennsylvania politics
 
 The app source lives in a private repo. This repo exists so anyone with the link can download the APK **without GitHub authentication**.
 
-## PA Politics V1.0 (beta)
+## PA Politics V2.0 (beta)
 
 **Direct download:**
 
-https://github.com/sicpoe-wq/pa-politics-releases/releases/download/v1.0/PA-Politics-V1.0.apk
+https://github.com/sicpoe-wq/pa-politics-releases/releases/download/v2.0/PA-Politics-V2.0.apk
 
-Also in-tree: [`release/PA-Politics-V1.0.apk`](./release/PA-Politics-V1.0.apk)
+Also in-tree: [`release/PA-Politics-V2.0.apk`](./release/PA-Politics-V2.0.apk)
+
+Previous version: [V1.0](https://github.com/sicpoe-wq/pa-politics-releases/releases/tag/v1.0)
 
 ### Install (Android)
 
